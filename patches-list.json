@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when release workflows run. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "patches": [
     {
       "name": "Rakuten iSPEED Session Bridge",
@@ -10,14 +10,14 @@
       "compatiblePackages": [
         {
           "packageName": "jp.co.rakuten_sec.ispeed",
-          "name": "Rakuten iSPEED 11.8.0A",
+          "name": "Rakuten iSPEED 11.8.0",
           "description": null,
           "apkFileType": null,
           "appIconColor": "#BF0000",
           "signatures": null,
           "targets": [
             {
-              "version": "11.8.0A",
+              "version": "11.8.0",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
