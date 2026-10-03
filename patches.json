@@ -1,0 +1,32 @@
+{
+  "NOTE": "Do NOT manually edit this file. This file is automatically updated when release workflows run. Manually editing this file can break your releases and break third party tools that use this file.",
+  "version": "0.1.3",
+  "patches": [
+    {
+      "name": "Rakuten iSPEED Session Bridge",
+      "description": "Extracts authenticated session tokens (BV_SessionID, SER) upon login and transmits encrypted UDP datagrams to the bot receiver.",
+      "default": false,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "jp.co.rakuten_sec.ispeed",
+          "name": "Rakuten iSPEED 11.8.0A",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#BF0000",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "11.8.0A",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    }
+  ]
+}
