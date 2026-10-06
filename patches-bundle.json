@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-05T09:36:48",
+  "created_at": "2026-10-06T10:52:22",
   "description": "Rakuten iSPEED patches bundle",
-  "download_url": "https://github.com/monesys/ispeed-morphe-patch-release/releases/download/build-0012/patches.mpp",
+  "download_url": "https://github.com/monesys/ispeed-morphe-patch-release/releases/download/build-0013/patches.mpp",
   "signature_download_url": "",
-  "version": "0.1.12"
+  "version": "0.1.13"
 }
